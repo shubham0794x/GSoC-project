@@ -1,5 +1,4 @@
 # GSoC-project
-Line Listing Record Importer
 DHIS2 is a free and open source health information system software package based
 on Java frameworks. Traditional method being used by public health Systems which
 have been recording aggregate data of the services provided across various health
