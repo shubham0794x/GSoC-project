@@ -8,6 +8,7 @@ lacks the ability of tracing the persons being provided with these services and 
 of these ones. It is important that treatment information of each person is maintained
 as an individual case which can provide a comprehensive data management solution
 based on data warehousing principles.
+
 There is a need to allow users to import the malaria(and other) cases and their
 events in DHIS 2 through excel sheets due to the following 2 reasons­
 1. Non­availability of internet all the time.
