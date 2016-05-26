@@ -21,3 +21,8 @@ In terms of DHIS2, the import should do the following­
 ➢ Register the tracked entity which is person
 ➢ Enroll him to malaria program
 ➢ Report the event for the treatment given
+
+The primary feature and the main objective of the project include ​:­
+➢ Importing patient records registered in the excel sheet.
+➢ Import CCD/XML exports from an EMR into DHIS2 tracker.
+➢ Location capture for patient using geolocation.
